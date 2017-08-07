@@ -5,8 +5,8 @@ Adapted from: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spic
 ## Ingredients
 * 1 kg (2 lbs) ground beef
 * 2x 474 ml (16 oz) cans kidney beans
-* 2x 430 ml (14.5 oz) cans diced tomatoes
-* 1x 235 ml (8 oz) can tomato sauce
+* 1x 680 ml (23 oz) can tomato sauce
+* 250 ml (1 cup) corn 
 * 2 onions, chopped
 * 1 bell pepper, chopped
 * 2 cloves garlic, minced
