@@ -1,6 +1,6 @@
 # Guacamole
 
-Adapted from: [Guacamole](http://allrecipes.com/recipe/14231/guacamole/)
+Source: [Guacamole](http://allrecipes.com/recipe/14231/guacamole/)
 
 ## Ingredients
 * 3 avocados, pitted

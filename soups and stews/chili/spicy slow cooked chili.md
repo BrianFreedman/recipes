@@ -1,6 +1,6 @@
 # Spicy Slow Cooked Chili
 
-Adapted from: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spicy-slow-cooked-chili/)
+Source: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spicy-slow-cooked-chili/)
 
 ## Ingredients
 * 1 kg (2 lbs) ground beef
