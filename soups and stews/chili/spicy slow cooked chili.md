@@ -11,7 +11,7 @@ Adapted from: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spic
 * 1 bell pepper, chopped
 * 2 cloves garlic, minced
 * 45 ml (3 tbsp) chili powder
-* 15 ml (1 tbsp) cayenne pepper
+* 5 ml (1 tsp) cayenne pepper
 * 10 ml (2 tsp) salt
 * 5 ml (1 tsp) ground black pepper
 
