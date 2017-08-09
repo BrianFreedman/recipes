@@ -22,4 +22,4 @@ Source: The America's Test Kitchen Family Cookbook (Third Edition) - Thai Red Be
 
 # Instructions
 1. Heat the oil in a 12-inch skillet over medium heat until shimmering. Add the curry paste and cook until fragrant, about 1 minute. Whisk in half the coconut milk, fish sauce, and sugar and simmer until slightly thickened, about 5 minutes.
-2. Add the chicken and simmer until the pieces are cooked. Stir in the bell pepper and cook until the pieces are crisp tender, about 5 minutes. Off the heat, stir in the basil and lime juice. Season with salt to taste.
+2. Add the chicken and simmer until the pieces are cooked. Stir in the bell pepper and onion and cook until the pieces are crisp tender, about 5 minutes. Off the heat, stir in the basil and lime juice. Season with salt to taste.
