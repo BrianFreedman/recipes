@@ -6,14 +6,19 @@ Source: The America's Test Kitchen Family Cookbook (Third Edition) - Thai Red Be
 * 1 tbsp vegetable oil
 * 3 tbsp red curry paste
 * 2x 14 oz can coconut milk
-* 1 tbsp fish sauce
+* 1 tbsp fish sauce [optional]
 * 4 tsp sugar
 * 2 boneless skinless chicken breasts, chopped
 * 2 red bell peppers, cut into strips
-* 1 onion, cut into strips
-* 1/2 cup coarsely chopped fresh basil
-* 1 tbsp fresh lime juice
+* 1 onion, cut into strips [optional]
+* 1/2 cup basil, coarsely chopped <sup>1</sup>
+* 1 tbsp lime juice <sup>2</sup>
 * salt
+
+### Substitutions
+* <sup>1</sup> 1 tbsp dried basil, chopped
+* <sup>2</sup> 1/2 lime, juiced
+* <sup>2</sup> 1 tbsp lemon juice
 
 # Instructions
 1. Heat the oil in a 12-inch skillet over medium heat until shimmering. Add the curry paste and cook until fragrant, about 1 minute. Whisk in half the coconut milk, fish sauce, and sugar and simmer until slightly thickened, about 5 minutes.
