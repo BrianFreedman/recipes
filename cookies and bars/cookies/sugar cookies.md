@@ -5,12 +5,15 @@ Source: Norine Freedman
 # Ingredients
 * 600 ml (2 1/2 cups) flour
 * 5 ml (1 tsp) baking powder
+* 180 ml (3/4 cup) butter <sup>1</sup>
 * 240 ml (1 cup) sugar
-* 180 ml (3/4 cup) butter
 * 5 ml (1 tsp) vanilla
 * 2 large eggs
 * [Icing](../../icing/icing.md)
 * Sprinkles
+
+### Substitutions
+* <sup>1</sup> 180 ml (3/4 cup) brick margarine
 
 # Instructions
 1. Adjust an oven rack to the middle position and heat the oven to 350 degrees.
