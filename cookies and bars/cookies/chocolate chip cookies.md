@@ -25,4 +25,3 @@ Source: Norine Freedman
 1. Use spoons to drop the cookies onto a baking sheet.
 1. Bake for 11 to 13 minutes.
 1. Remove the cookies from the baking sheet and let them cool on a wire rack.
-1. When fully cooled, spread icing onto the cookies and add sprinkles.
