@@ -3,7 +3,7 @@
 Source: Norine Freedman
 
 # Ingredients
-* 240 ml (1 cup) flour
+* 285 ml (1 cup + 3 tbsp) flour
 * 5 ml (1 tsp) baking soda
 * 5 ml (1 tsp) baking powder
 * 1.25 ml (1/4 tsp) salt
