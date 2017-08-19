@@ -3,13 +3,13 @@
 Source: [The Best Slow Cooker BBQ Chicken](https://www.halfbakedharvest.com/the-best-slow-cooker-bbq-chicken/)
 
 # Ingredients
-* 2 1/2 pounds boneless skinless chicken breasts, thighs or a mix of the two
-* 2 tablespoons honey
-* 1 tablespoon smoked paprika
-* 2 teaspoons chipotle chile powder
-* 1 teaspoon garlic powder
-* 1/2 teaspoon cinnamon
-* 1/2 teaspoon kosher salt and pepper
+* 1 kg (2.2 lbs) boneless skinless chicken breasts, thighs or a mix of the two
+* 30 ml (2 tbsp) honey
+* 15 ml (1 tbsp) smoked paprika
+* 10 ml (2 tsp) chipotle chili powder
+* 5 ml (1 tsp) garlic powder
+* 2.5 ml (1/2 tsp) cinnamon
+* 2.5 ml (1/2 tsp) kosher salt and pepper
 * [barbecue sauce](../../sauces%20and%20condiments/barbecue%20sauce.md)
 
 # Instructions
