@@ -1,4 +1,4 @@
-# Spicy Slow Cooked Chili
+# Spicy Chili
 
 Source: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spicy-slow-cooked-chili/)
 
