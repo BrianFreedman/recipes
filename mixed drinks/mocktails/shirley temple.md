@@ -10,4 +10,4 @@ Source: Cocktails: The Art of Mixing in 1,001 Recipes
 
 # Instructions
 1. Fill a collins glass with ice and pour in the ginger ale and grenadine.
-2. Garnish with the lemon slice and cherry.
+1. Garnish with the lemon slice and cherry.

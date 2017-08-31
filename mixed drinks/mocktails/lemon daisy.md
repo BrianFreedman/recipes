@@ -10,5 +10,5 @@ Source: Cocktails: The Art of Mixing in 1,001 Recipes
 
 # Instructions
 1. Half fill a wine glass with ice cubes.
-2. Add the lemon juice, grenadine, and sugar syrup and stir well.
-3. Top up with white soda.
+1. Add the lemon juice, grenadine, and sugar syrup and stir well.
+1. Top up with white soda.

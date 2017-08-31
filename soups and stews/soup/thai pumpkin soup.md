@@ -11,4 +11,4 @@ Source: [5 Ingredient Thai Pumpkin Soup](http://www.foodiecrush.com/5-ingredient
 
 # Instructions
 1. In a large saucepan over medium heat, cook the curry paste for about one minute or until paste becomes fragrant. Add the broth, pumpkin, and cayenne pepper and stir.
-2. Cook for about 3 minutes or until soup starts to bubble. Add the coconut milk and cook until hot, about 3 minutes.
+1. Cook for about 3 minutes or until soup starts to bubble. Add the coconut milk and cook until hot, about 3 minutes.

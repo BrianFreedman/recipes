@@ -10,6 +10,6 @@ Source: Cocktails: The Art of Mixing in 1,001 Recipes
 
 # Instructions
 1. Fill a shaker two-thirds full with ice.
-2. Add the whisky, lemon juice, and sugar syrup.
-3. Shake well and strain into a chilled whisky glass either straight up or over ice.
-4. Garnish with the lemon or orange.
+1. Add the whisky, lemon juice, and sugar syrup.
+1. Shake well and strain into a chilled whisky glass either straight up or over ice.
+1. Garnish with the lemon or orange.

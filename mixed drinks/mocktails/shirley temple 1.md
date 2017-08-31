@@ -10,6 +10,6 @@ Source: Cocktails: The Art of Mixing in 1,001 Recipes
 
 # Instructions
 1. Fill a shaker two-thirds full with ice.
-2. Add the white soda, lemon juice, and grenadine.
-3. Shake well and strain into a chilled old-fashioned glass.
-4. Garnish with the orange.
+1. Add the white soda, lemon juice, and grenadine.
+1. Shake well and strain into a chilled old-fashioned glass.
+1. Garnish with the orange.

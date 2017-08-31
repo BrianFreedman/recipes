@@ -20,4 +20,4 @@ Source: [Slow Cooker Butter Chicken](http://allrecipes.com/recipe/174543/slow-co
 
 # Instructions
 1. Melt the butter and vegetable oil in a large skillet over medium heat. Stir in the chicken, onion, and garlic. Cook and stir until the onion has softened and turned translucent, about 10 minutes. Stir in the curry powder, curry paste, tandoori masala, garam masala, and tomato paste until no lumps of tomato paste remain. Pour into a slow cooker, and stir in the cardamom pods, coconut milk, and yogurt. Season to taste with salt.
-2. Cook on High 4 to 6 hours, or on Low 6 to 8 hours until the chicken is tender and the sauce has reduced to your desired consistency. Remove and discard the cardamom pods before serving.
+1. Cook on High 4 to 6 hours, or on Low 6 to 8 hours until the chicken is tender and the sauce has reduced to your desired consistency. Remove and discard the cardamom pods before serving.
