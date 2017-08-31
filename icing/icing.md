@@ -10,4 +10,4 @@ Source: Norine Freedman
 
 # Instructions
 1. Stir the margarine, icing sugar, and vanilla together in a bowl.
-2. Add milk to thin the mixture.
+1. Add milk to thin the mixture.

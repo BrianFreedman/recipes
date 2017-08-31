@@ -11,7 +11,7 @@ Source: Brian Freedman
 
 # Instructions
 1. Fill a shaker two-thirds full with ice.
-2. Add the whisky, lemon juice, and sugar syrup.
-3. Shake well and strain into a chilled whisky glass either straight up or over ice.
-4. Add the Angostura bitters.
-5. Garnish with the lemon or orange.
+1. Add the whisky, lemon juice, and sugar syrup.
+1. Shake well and strain into a chilled whisky glass either straight up or over ice.
+1. Add the Angostura bitters.
+1. Garnish with the lemon or orange.
