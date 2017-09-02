@@ -1,4 +1,4 @@
-# Gaeng Panang
+# Thai Red Curry Chicken
 
 Source: The America's Test Kitchen Family Cookbook (Third Edition) - Thai Red Beef Curry
 
