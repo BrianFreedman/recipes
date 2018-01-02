@@ -1,8 +1,8 @@
-# Chocolate Chip Cookies
+# Chocolate Chip Cookies #
 
 Source: Norine Freedman
 
-# Ingredients
+## Ingredients ##
 * 1200 ml (5 cups) flour
 * 10 ml (2 tsp) baking soda
 * 5 ml (1 tsp) salt
@@ -14,10 +14,10 @@ Source: Norine Freedman
 * 1 package milk chocolate chips
 * 1/2 package semisweet chocolate chips
 
-### Substitutions
+### Substitutions ###
 * <sup>1</sup> 480 ml (2 cups) brick margarine
 
-# Instructions
+## Instructions ##
 1. Adjust an oven rack to the middle position and heat the oven to 350 degrees.
 1. In a bowl, whisk the flour, baking soda, and salt and set aside.
 1. Beat the butter, brown sugar, and granulated sugar, together in a large bowl using an electric mixer on medium speed until combined. Beat in the eggs and vanilla until combined.
