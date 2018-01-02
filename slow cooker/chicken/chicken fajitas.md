@@ -1,8 +1,8 @@
-# Chicken Fajitas
+# Chicken Fajitas #
 
 Source: [Slow Cooker Fajitas](http://www.thekitchn.com/how-to-make-slow-cooker-fajitas-242476)
 
-# Ingredients
+## Ingredients ##
 * 1 (15-ounce) can diced tomatoes
 * 1 canned chipotle pepper in adobo sauce, finely chopped
 * 3 cloves garlic, minced
@@ -21,7 +21,7 @@ Source: [Slow Cooker Fajitas](http://www.thekitchn.com/how-to-make-slow-cooker-f
 * salsa
 * guacamole
 
-# Instructions
+## Instructions ##
 1. Make the tomato mixture: Place the tomatoes, chipotle pepper, garlic, cumin, paprika, salt, and coriander in a medium bowl and stir to combine.
 1. Layer the ingredients in the slow cooker: Spread about 1/2 of the tomato mixture onto the bottom of a 6-quart or larger slow cooker. Add the chicken breast in a single layer. Top with the peppers and onion, the finish with the remaining tomato mixture.
 1. Slow cook: Cover and cook until the chicken is pull-apart tender, 6 to 7 hours on the LOW setting, 3 to 4 hours on the HIGH setting.

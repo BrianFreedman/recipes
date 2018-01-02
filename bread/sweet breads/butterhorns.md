@@ -1,8 +1,8 @@
-# Butterhorns
+# Butterhorns #
 
 Source: Norine Freedman
 
-# Ingredients
+## Ingredients ##
 * 240 ml (1 cup) butter <sup>1</sup>
 * 240 ml (1 cup) 3.5% milk <sup>2</sup>
 * 2 packages (4 1/2 tsp) traditional yeast
@@ -12,11 +12,11 @@ Source: Norine Freedman
 * 960 ml (4 cups) flour
 * 60 ml (1/4 cup) additional flour [*optional*]
 
-### Substitutions
+### Substitutions ###
 * <sup>1</sup> 240 ml (1 cup) brick margarine
 * <sup>2</sup> 240 ml (1 cup) 2% milk
 
-# Instructions
+## Instructions ##
 1. Over medium heat, add the butter and milk in a small saucepan. Once the butter has melted, take the mixture off the heat as it needs to cool before you can add it to the dough.
 1. Proof the yeast.
 1. Beat the eggs, sugar, salt, yeast mixture, cooled butter/milk mixture, and flour together in a large bowl.
