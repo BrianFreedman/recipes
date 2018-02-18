@@ -1,25 +1,16 @@
-# Gaeng Panang
+# Gaeng Panang #
 
-Source: The America's Test Kitchen Family Cookbook (Third Edition) - Thai Red Beef Curry
+Source: [Panang Curry with Chicken](http://allrecipes.com/recipe/213947/panang-curry-with-chicken/)
 
-# Ingredients
-* 15 ml (1 tbsp) vegetable oil
-* 45 ml (3 tbsp) red curry paste
-* 2x 400 ml (14 oz) cans coconut milk
-* 15 ml (1 tbsp) fish sauce [*optional*]
-* 20 ml (4 tsp) sugar
-* 2 boneless skinless chicken breasts, chopped
-* 2 red bell peppers, cut into strips
-* 1 onion, cut into strips [*optional*]
-* 120 ml (1/2 cup) basil, coarsely chopped <sup>1</sup>
-* 15 ml (1 tbsp) lime juice <sup>2</sup>
-* salt
+## Ingredients ##
+* 5 tablespoons Panang curry paste cooking oil
+* 4 cups coconut milk
+* 2/3 pound skinless, boneless chicken breast, cubed
+* 2 tablespoons palm sugar
+* 2 tablespoons fish sauce, or to taste
+* 6 kaffir lime leaves, torn
+* 2 fresh red chile peppers, sliced
+* 1/4 cup fresh Thai basil leaves
 
-### Substitutions
-* <sup>1</sup> 15 ml (1 tbsp) dried basil, chopped
-* <sup>2</sup> 1/2 lime, juiced
-* <sup>2</sup> 15 ml (1 tbsp) lemon juice
-
-# Instructions
-1. Heat the oil in a 12-inch skillet over medium heat until shimmering. Add the curry paste and cook until fragrant, about 1 minute. Whisk in half the coconut milk, fish sauce, and sugar and simmer until slightly thickened, about 5 minutes.
-1. Add the chicken and simmer until the pieces are cooked. Stir in the bell pepper and onion and cook until the pieces are crisp tender, about 5 minutes. Off the heat, stir in the basil and lime juice. Season with salt to taste.
+## Instructions ##
+1. Fry the curry paste in the oil in a large skillet or wok over medium heat until fragrant. Stir the coconut milk into the curry paste and bring to a boil. Add the chicken; cook and stir until the chicken is nearly cooked through, 10 to 15 minutes. Stir the palm sugar, fish sauce, and lime leaves into the mixture; simmer together for 5 minutes. Taste and adjust the saltiness by adding more fish sauce if necessary. Garnish with sliced red chile peppers and Thai basil leaves to serve.
