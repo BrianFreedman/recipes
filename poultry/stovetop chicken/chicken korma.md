@@ -1,8 +1,8 @@
-# Chicken Korma
+# Chicken Korma #
 
 Source: [Chicken Korma II](http://allrecipes.com/recipe/68473/chicken-korma-ii/)
 
-# Ingredients
+## Ingredients ##
 * 1/4 cup cashew halves
 * 1/4 cup boiling water
 * 3 cloves garlic, peeled
@@ -22,7 +22,7 @@ Source: [Chicken Korma II](http://allrecipes.com/recipe/68473/chicken-korma-ii/)
 * 1/2 cup plain yogurt
 * 1 teaspoon cornstarch, mixed with equal parts water
 
-# Instructions
+## Instructions ##
 1. Place cashews in a small bowl, and pour the boiling water over nuts. Set aside for 15 to 20 minutes. Place garlic and ginger in food processor and blend until smooth; set aside.
 1. Heat oil in wok over medium heat. Cook the bay leaves in hot oil for 30 seconds. Stir in onion, and cook until soft, about 3 to 5 minutes. Mix in garlic/ginger paste, and season with coriander, garam masala, cumin, turmeric, and chili powder. Stir in chicken, and cook for about 5 minutes. Pour in tomato sauce and chicken broth. Cover, reduce heat, and simmer for 15 minutes, stirring occasionally.
 1. Meanwhile, place the cashews, along with the water in which they were soaked, and the cream and yogurt into food processor. Process until smooth.

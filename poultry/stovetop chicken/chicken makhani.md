@@ -1,8 +1,8 @@
-# Chicken Makhani
+# Chicken Makhani #
 
 Source: [Chicken Makhani (Indian Butter Chicken)](http://allrecipes.com/recipe/45957/chicken-makhani-indian-butter-chicken/)
 
-# Ingredients
+## Ingredients ##
 * 1 tablespoon peanut oil
 * 1 shallot, finely chopped
 * 1/4 white onion, chopped
@@ -26,7 +26,7 @@ Source: [Chicken Makhani (Indian Butter Chicken)](http://allrecipes.com/recipe/4
 * 1 tablespoon cornstarch
 * 1/4 cup water
 
-# Instructions
+## Instructions ##
 1. Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside.
 1. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce.
 1. Mix together cornstarch and water, then stir into the sauce. Cook for 5 to 10 minutes, or until thickened.

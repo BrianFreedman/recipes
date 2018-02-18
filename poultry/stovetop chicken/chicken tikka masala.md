@@ -1,8 +1,8 @@
-# Chicken Tikka Masala
+# Chicken Tikka Masala #
 
 Source: [Chicken Tikka Masala](http://allrecipes.com/recipe/45736/chicken-tikka-masala/)
 
-# Ingredients
+## Ingredients ##
 * 1 cup yogurt
 * 1 tablespoon lemon juice
 * 2 teaspoons fresh ground cumin
@@ -23,7 +23,7 @@ Source: [Chicken Tikka Masala](http://allrecipes.com/recipe/45736/chicken-tikka-
 * 1 cup heavy cream
 * 1/4 cup chopped fresh cilantro
 
-# Instructions
+## Instructions ##
 1. In a large bowl, combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and salt. Stir in chicken, cover, and refrigerate for 1 hour.
 1. Preheat a grill for high heat.
 1. Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill until juices run clear, about 5 minutes on each side.

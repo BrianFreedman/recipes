@@ -1,8 +1,8 @@
-# Easy Butter Chicken
+# Easy Butter Chicken #
 
 Source: [Easy Indian Butter Chicken](http://allrecipes.com/recipe/141169/easy-indian-butter-chicken/)
 
-# Ingredients
+## Ingredients ##
 * 1 cup butter, divided
 * 1 onion, minced
 * 1 tablespoon minced garlic
@@ -15,7 +15,7 @@ Source: [Easy Indian Butter Chicken](http://allrecipes.com/recipe/141169/easy-in
 * 2 tablespoons vegetable oil
 * 2 tablespoons tandoori masala
 
-# Instructions
+## Instructions ##
 1. Preheat oven to 375 degrees F (190 degrees C).
 1. Melt a few tablespoons of butter in a skillet over medium heat. Stir in onion and garlic, and cook slowly until the onion caramelizes to a dark brown, about 15 minutes.
 1. Meanwhile melt the remaining butter in a saucepan over medium-high heat along with the tomato sauce, heavy cream, salt, cayenne pepper, and garam masala. Bring to a simmer, then reduce heat to medium-low; cover, and simmer for 30 minutes, stirring occasionally. Then stir in caramelized onions.
