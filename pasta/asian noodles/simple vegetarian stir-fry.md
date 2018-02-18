@@ -3,20 +3,20 @@
 Source: [Simple Vegetarian Stir-fry](http://www.geniuskitchen.com/recipe/simple-vegetarian-stir-fry-398989)
 
 ## Ingredients ##
-* 4 tbsp cornstarch
-* 4 tbsp water
+* 60 ml (1/4 cup) cornstarch
+* 60 ml (1/4 cup) water
 * 8 cloves garlic, minced <sup>1</sup>
-* 2 tbsp cooking oil
-* 1 cup corn
-* 1 cup peas
+* 30 ml (2 tbsp) cooking oil
+* 240 ml (1 cup) corn
+* 240 ml (1 cup) peas
 * 1 bell pepper, chopped
 * 1/2 medium onion, chopped <sup>2</sup>
 * 1 head of broccoli, chopped
-* 1/2 cup light soy sauce
-* 4 tbsp brown sugar
-* 1 tsp ground ginger
-* 4 tsp cornstarch
-* 1 cup water
+* 120 ml (1/2 cup) light soy sauce
+* 60 ml (1/4 cup) brown sugar
+* 5 ml (1 tsp) ground ginger
+* 20 ml (4 tsp) cornstarch
+* 240 ml (1 cup) water
 * 2 packages udon noodles, boiled and drained
 
 ### Substitutions ###
