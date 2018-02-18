@@ -1,8 +1,8 @@
-# Sweet and Sour Pork
+# Sweet and Sour Pork #
 
 Source: [Sweet and Sour Pork III](http://allrecipes.com/recipe/31144/sweet-and-sour-pork-iii/)
 
-# Ingredients
+## Ingredients ##
 * 1 pound pork butt, cut into 1 inch cubes
 * 5 ml (1 tsp) salt
 * 1.25 ml (1/4 tsp) white sugar
@@ -18,7 +18,7 @@ Source: [Sweet and Sour Pork III](http://allrecipes.com/recipe/31144/sweet-and-s
 * salt to taste
 * [Sweet and Sour Sauce](../../sauces%20and%20condiments/sweet%20and%20sour%20sauce.md)
 
-# Instructions
+## Instructions ##
 1. Place cubed pork in a medium bowl, and season with salt, sugar, and soy sauce. Mix in the egg white and green onions. Cover, and place in the refrigerator at least 1 hour.
 1. Heat 1 l (1 quart) oil to 185 degrees C (365 degrees F) in a large, heavy saucepan or deep fryer.
 1. Coat the pork with cornstarch, and fry in the heated oil about 10 minutes, until evenly browned. Drain on paper towels.

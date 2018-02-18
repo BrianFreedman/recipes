@@ -1,8 +1,8 @@
-# Oatmeal Cookies
+# Oatmeal Cookies #
 
 Source: Norine Freedman
 
-# Ingredients
+## Ingredients ##
 * 285 ml (1 cup + 3 tbsp) flour
 * 5 ml (1 tsp) baking soda
 * 5 ml (1 tsp) baking powder
@@ -14,10 +14,10 @@ Source: Norine Freedman
 * 600 ml (2 1/2 cups) rolled oats
 * 1/2 package chocolate chips [*optional*]
 
-### Substitutions
+### Substitutions ###
 * <sup>1</sup> 240 ml (1 cup) brick margarine
 
-# Instructions
+## Instructions ##
 1. Adjust an oven rack to the middle position and heat the oven to 350 degrees.
 1. In a bowl, whisk the flour, baking soda, baking powder, and salt and set aside.
 1. Beat the butter, brown sugar, and granulated sugar, together in a large bowl using an electric mixer on medium speed until combined. Beat in the eggs until combined.

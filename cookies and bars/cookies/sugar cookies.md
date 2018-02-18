@@ -1,8 +1,8 @@
-# Sugar Cookies
+# Sugar Cookies #
 
 Source: Norine Freedman
 
-# Ingredients
+## Ingredients ##
 * 600 ml (2 1/2 cups) flour
 * 5 ml (1 tsp) baking powder
 * 180 ml (3/4 cup) butter <sup>1</sup>
@@ -12,10 +12,10 @@ Source: Norine Freedman
 * [Icing](../../icing/icing.md)
 * Sprinkles
 
-### Substitutions
+### Substitutions ###
 * <sup>1</sup> 180 ml (3/4 cup) brick margarine
 
-# Instructions
+## Instructions ##
 1. Adjust an oven rack to the middle position and heat the oven to 350 degrees.
 1. In a bowl, whisk the flour and baking powder and set aside.
 1. Beat the butter and sugar together in a large bowl using an electric mixer on medium speed until light and fluffy. Beat in the vanilla, then the eggs, one at a time, until combined.

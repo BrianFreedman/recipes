@@ -1,8 +1,8 @@
-# Pad Bai Gra Prow
+# Pad Bai Gra Prow #
 
 Source: [Spicy Thai Basil Chicken](http://allrecipes.com/recipe/257938/spicy-thai-basil-chicken-pad-krapow-gai/)
 
-# Ingredients
+## Ingredients ##
 * 1/3 cup chicken broth
 * 1 tablespoon oyster sauce
 * 1 tablespoon soy sauce, or as needed
@@ -17,7 +17,7 @@ Source: [Spicy Thai Basil Chicken](http://allrecipes.com/recipe/257938/spicy-tha
 * 1 cup very thinly sliced fresh basil leaves
 * 2 cups hot cooked rice
 
-# Instructions
+## Instructions ##
 1. Whisk chicken broth, oyster sauce, soy sauce, fish sauce, white sugar, and brown sugar together in a bowl until well blended.
 1. Heat large skillet over high heat. Drizzle in oil. Add chicken and stir fry until it loses its raw color, 2 to 3 minutes. Stir in shallots, garlic, and sliced chilies. Continue cooking on high heat until some of the juices start to caramelize in the bottom of the pan, about 2 or 3 more minutes. Add about a tablespoon of the sauce mixture to the skillet; cook and stir until sauce begins to caramelize, about 1 minute.
 1. Pour in the rest of the sauce. Cook and stir until sauce has deglazed the bottom of the pan. Continue to cook until sauce glazes onto the meat, 1 or 2 more minutes. Remove from heat.

@@ -1,8 +1,8 @@
-# Pad Prik Khing
+# Pad Prik Khing #
 
 Source: [Gai Pad Prik Gaeng](https://www.eatingthaifood.com/thai-gai-pad-prik-gaeng-recipe-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3-%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%81/)
 
-# Ingredients
+## Ingredients#
 * 300 grams, or about 1.5 chicken breasts
 * 3 strands of Chinese long beans (or about ⅓ cup of chopped string beans)
 * 3 - 5 kaffir lime leaves
@@ -11,7 +11,7 @@ Source: [Gai Pad Prik Gaeng](https://www.eatingthaifood.com/thai-gai-pad-prik-ga
 * ½ teaspoon sugar
 * 1 tablespoon oil for frying
 
-# Instructions
+## Instructions ##
 1. The first thing you need to do is take your chicken and slice it into small bite sized pieces. I like to cut it quite fine so there’s more surface area for flavor, and so it cooks quicker.
 1. Cut the Chinese long beans (or green beans) into 1 inch pieces.
 1. Once your chicken and long beans are cut, go ahead and light your stove on low heat and add in 1 tablespoon of oil. You really need to use about 1 tablespoon of oil, if you use less, the curry paste will burn and stick to the pan.

@@ -1,8 +1,8 @@
-# Peanut Curry Chicken
+# Peanut Curry Chicken #
 
 Source: [Chef John's Peanut Curry Chicken](http://allrecipes.com/recipe/244979/chef-johns-peanut-curry-chicken/)
 
-# Ingredients
+## Ingredients ##
 * 1 tablespoon kosher salt, plus more to taste
 * 2 teaspoons ground coriander
 * 2 teaspoons ground cumin
@@ -26,7 +26,7 @@ Source: [Chef John's Peanut Curry Chicken](http://allrecipes.com/recipe/244979/c
 * 1/2 cup roasted peanuts, plus more for garnish
 * 3 tablespoons chopped fresh cilantro, for garnish
 
-# Instructions
+## Instructions ##
 1. Mix salt, coriander, cumin, turmeric, paprika, and cayenne pepper together in a small bowl.
 1. Place chicken pieces in a separate bowl and add 1/2 of the spice blend. Mix together thoroughly to coat each surface with spice blend.
 1. Heat oil over high heat in a heavy pot. Brown half of the chicken pieces on all sides. Transfer to a bowl. Repeat with the rest of the chicken.

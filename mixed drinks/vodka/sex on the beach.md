@@ -1,8 +1,8 @@
-# Sex on the Beach
+# Sex on the Beach #
 
 Source: Cocktails: The Art of Mixing in 1,001 Recipes
 
-# Ingredients
+## Ingredients ##
 * 30 ml (1 oz) vodka
 * 30 ml (1 oz) peach schnapps
 * 15 ml (1/2 oz) Chambord raspberry liqueur
@@ -10,7 +10,7 @@ Source: Cocktails: The Art of Mixing in 1,001 Recipes
 * 60 ml (2 oz) cranberry juice
 * Fresh fruit, to garnish
 
-# Instructions
+## Instructions ##
 1. Fill a shaker two-thirds full with ice.
 1. Add the vodka, peach schnapps, Chambord, orange juice, and cranberry juice.
 1. Shake well and strain into an old-fashioned glass half filled with ice.

@@ -1,8 +1,8 @@
-# Barbecue sauce
+# Barbecue sauce #
 
 Source: [Barbecue Sauce](https://www.halfbakedharvest.com/the-best-slow-cooker-bbq-chicken/)
 
-# Ingredients
+## Ingredients ##
 * 300 ml (1 1/4 cups) ketchup
 * 60 ml (1/4 cup) honey
 * 30 ml (2 tbsp) molasses
@@ -13,5 +13,5 @@ Source: [Barbecue Sauce](https://www.halfbakedharvest.com/the-best-slow-cooker-b
 * 2.5 ml (1/2 tsp) cayenne pepper
 * 7.5 ml (1 1/2 tsp) kosher salt and pepper
 
-# Instructions
+## Instructions ##
 1. Combine all the ingredients in a large bowl and whisk to combine. Can be stored in the fridge for up to 2 months
