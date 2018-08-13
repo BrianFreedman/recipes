@@ -6,12 +6,12 @@ Source: [Easy Indian Butter Chicken](http://allrecipes.com/recipe/141169/easy-in
 * 240 ml (1 cup) butter, divided
 * 1 medium onion, minced <sup>1</sup>
 * 4 cloves garlic, minced <sup>2</sup>
-* 1 (15 ounce) can tomato sauce
+* 1x 414 ml (14 oz) can tomato sauce
 * 720 ml (3 cup) heavy cream
 * 10 ml (2 tsp) salt
 * 5 ml (1 tsp) cayenne pepper
 * 5 ml (1 tsp) garam masala
-* 1.1 kg (1.5 lbs) skinless, boneless chicken breast, cut into bite-sized chunks
+* 4 boneless skinless chicken breasts, cubed
 * 30 ml (2 tbsp) vegetable oil
 * 30 ml (2 tbsp) tandoori masala
 

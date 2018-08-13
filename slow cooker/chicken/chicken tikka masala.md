@@ -3,19 +3,19 @@
 Source: [Easy Slow Cooker Chicken Tikka Masala](http://allrecipes.com/recipe/240337/easy-slow-cooker-chicken-tikka-masala/)
 
 ## Ingredients ##
-* 1 1/2 pounds skinless, boneless chicken breast, cut in bite-sized pieces
-* 1 (14.5 ounce) can tomato sauce
+* 1.5 lbs boneless skinless chicken breasts, cut in bite-sized pieces
+* 1x 414 ml (14 oz) can tomato sauce
 * 1 cup plain yogurt
 * 1 jalapeno pepper, seeded and minced
-* 1 tablespoon minced fresh ginger
-* 1 tablespoon ground cumin
-* 2 teaspoons garam masala
-* 2 teaspoons ground black pepper
-* 2 teaspoons paprika
+* 1 tbsp minced fresh ginger
+* 1 tbsp ground cumin
+* 2 tsp garam masala
+* 2 tsp ground black pepper
+* 2 tsp paprika
 * 1 clove garlic, minced
-* 1 teaspoon ground cinnamon
-* 1 teaspoon ground coriander
-* 1 teaspoon salt
+* 1 tsp ground cinnamon
+* 1 tsp ground coriander
+* 1 tsp salt
 * 1 cup heavy whipping cream
 * 1/4 cup fresh cilantro, chopped
 * lemon, juiced

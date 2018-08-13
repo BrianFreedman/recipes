@@ -3,7 +3,7 @@
 Source: [Thai Basil Chicken](https://www.eatingthaifood.com/thai-basil-chicken-recipe-pad-kra-pao-gai/)
 
 ## Ingredients ##
-* 1 chicken breast (or any other cut of boneless chicken, about 200 grams)
+* 1 boneless skinless chicken breast, cubed
 * 5 cloves of garlic
 * 4 Thai chilies
 * 15 ml (1 tbsp) oil for frying

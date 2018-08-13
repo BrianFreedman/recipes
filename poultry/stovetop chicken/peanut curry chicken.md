@@ -3,28 +3,28 @@
 Source: [Chef John's Peanut Curry Chicken](http://allrecipes.com/recipe/244979/chef-johns-peanut-curry-chicken/)
 
 ## Ingredients ##
-* 1 tablespoon kosher salt, plus more to taste
-* 2 teaspoons ground coriander
-* 2 teaspoons ground cumin
-* 1 teaspoon ground turmeric
-* 1 teaspoon paprika
-* 1/2 teaspoon cayenne pepper
-* 2 1/2 pounds skinless, boneless chicken thighs, cut into 2-inch pieces
-* 2 tablespoons vegetable oil
+* 1 tbsp kosher salt, plus more to taste
+* 2 tsp ground coriander
+* 2 tsp ground cumin
+* 1 tsp ground turmeric
+* 1 tsp paprika
+* 1/2 tsp cayenne pepper
+* 2.5 lbs boneless skinless chicken breasts, cubed
+* 2 tbsp vegetable oil
 * 1 large yellow onion, chopped
 * 6 cloves garlic, minced
-* 1 tablespoon finely grated fresh ginger
+* 1 tbsp finely grated fresh ginger
 * 3 1/2 cups chicken broth, or to taste
 * 3/4 cup unsweetened natural peanut butter
 * 1/2 cup ketchup
-* 1 tablespoon packed brown sugar
+* 1 tbsp packed brown sugar
 * 1 pound zucchini, cut into chunks
 * 1 red bell pepper, cut into chunks
 * 1 green poblano pepper, diced
 * 2 cups hot cooked rice
 * 1 lime, for garnish
 * 1/2 cup roasted peanuts, plus more for garnish
-* 3 tablespoons chopped fresh cilantro, for garnish
+* 3 tbsp chopped fresh cilantro, for garnish
 
 ## Instructions ##
 1. Mix salt, coriander, cumin, turmeric, paprika, and cayenne pepper together in a small bowl.

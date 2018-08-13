@@ -3,13 +3,13 @@
 Source: [Slow Cooker Fajitas](http://www.thekitchn.com/how-to-make-slow-cooker-fajitas-242476)
 
 ## Ingredients ##
-* 1 (15-ounce) can diced tomatoes
+* 1x 443 ml (15 oz) can diced tomatoes
 * 1 canned chipotle pepper in adobo sauce, finely chopped
 * 3 cloves garlic, minced
 * 5 ml (1 tsp) ground cumin
 * 2.5 ml (1/2 tsp) smoked paprika
-* 2.5 ml (1/2 tsp) teaspoon kosher salt
-* 1.25 ml (1/4 tsp) teaspoon ground coriander
+* 2.5 ml (1/2 tsp) tsp kosher salt
+* 1.25 ml (1/4 tsp) tsp ground coriander
 * 1 kg (2.2 lbs) boneless, skinless chicken breasts
 * 3 medium bell peppers, thinly sliced
 * 1 large sweet onion, thinly sliced

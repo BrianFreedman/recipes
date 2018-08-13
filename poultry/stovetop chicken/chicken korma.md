@@ -3,24 +3,28 @@
 Source: [Chicken Korma II](http://allrecipes.com/recipe/68473/chicken-korma-ii/)
 
 ## Ingredients ##
-* 1/4 cup cashew halves
-* 1/4 cup boiling water
+* 60 ml (1/4 cup) cashew halves
+* 60 ml (1/4 cup) boiling water
 * 3 cloves garlic, peeled
 * 1 (1/2 inch) piece fresh ginger root, peeled and chopped
-* 3 tablespoons vegetable oil
+* 45 ml (3 tbsp) vegetable oil
 * 2 bay leaves, crumbled
-* 1 large onion, minced
-* 1 teaspoon ground coriander
-* 1 teaspoon garam masala
-* 1 teaspoon ground cumin
-* 1 teaspoon ground turmeric
-* 1 teaspoon chili powder
-* 3 skinless, boneless chicken breast halves - diced
-* 1/4 cup tomato sauce
-* 1 cup chicken broth
-* 1/2 cup heavy cream
-* 1/2 cup plain yogurt
-* 1 teaspoon cornstarch, mixed with equal parts water
+* 1 medium onion, minced <sup>1</sup>
+* 5 ml (1 tsp) ground coriander
+* 5 ml (1 tsp) garam masala
+* 5 ml (1 tsp) ground cumin
+* 5 ml (1 tsp) ground turmeric
+* 5 ml (1 tsp) chili powder
+* 3 boneless skinless chicken breasts, cubed
+* 60 ml (1/4 cup) tomato sauce
+* 240 ml (1 cup) chicken broth
+* 120 ml (1/2 cup) heavy cream
+* 120 ml (1/2 cup) plain yogurt
+* 5 ml (1 tsp) cornstarch, mixed with equal parts water
+
+### Substitutions ###
+* <sup>1</sup> 15 ml (1 tbsp) onion powder
+* <sup>1</sup> 45 ml (3 tbsp) dried minced onion
 
 ## Instructions ##
 1. Place cashews in a small bowl, and pour the boiling water over nuts. Set aside for 15 to 20 minutes. Place garlic and ginger in food processor and blend until smooth; set aside.
