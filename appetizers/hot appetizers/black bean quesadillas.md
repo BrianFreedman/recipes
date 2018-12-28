@@ -3,7 +3,7 @@
 Source: [Black Bean Quesadillas](http://www.eatingwell.com/recipe/250108/black-bean-quesadillas/)
 
 ## Ingredients ##
-* 1x 15 oz can black beans, rinsed
+* 1x 400 ml (13.5 oz) can black beans, rinsed
 * 240 ml (1 cup) shredded cheese
 * 120 ml (1/2 cup) salsa, divided
 * 6 tortillas
