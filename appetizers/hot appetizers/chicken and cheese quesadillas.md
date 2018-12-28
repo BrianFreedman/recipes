@@ -3,7 +3,7 @@
 Source: The America's Test Kitchen Family Cookbook (Third Edition)
 
 ## Ingredients ##
-* 0.5 kg (1 lb) boneless, skinless chicken breasts
+* 0.454 kg (1 lb) boneless, skinless chicken breasts
 * salt and pepper
 * 30 ml (2 tbsp) vegetable oil
 * 1 onion, diced

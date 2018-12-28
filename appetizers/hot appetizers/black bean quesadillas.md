@@ -7,7 +7,7 @@ Source: [Black Bean Quesadillas](http://www.eatingwell.com/recipe/250108/black-b
 * 240 ml (1 cup) shredded cheese
 * 120 ml (1/2 cup) salsa, divided
 * 6 tortillas
-* 3 teaspoons canola oil, divided
+* 15 ml (3 tsp) canola oil, divided
 * 1 ripe avocado, diced
 
 ## Instructions ##
