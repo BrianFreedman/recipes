@@ -10,7 +10,7 @@ Source: [The Best Slow Cooker BBQ Chicken](https://www.halfbakedharvest.com/the-
 * 5 ml (1 tsp) garlic powder
 * 2.5 ml (1/2 tsp) cinnamon
 * 2.5 ml (1/2 tsp) kosher salt and pepper
-* [barbecue sauce](../../sauces%20and%20condiments/barbecue%20sauce.md)
+* [barbecue sauce](../../sauces%20and%20condiments/condiments/barbecue%20sauce.md)
 
 ## Instructions ##
 1. Place the chicken in the bowl of a crockpot. Add the honey, smoked paprika, chipotle chili powder, garlic powder, cinnamon, salt, and pepper. Toss to coat the chicken. Pour in half of the BBQ sauce. Cover and cook on low 6-8 hours or on high 4-6 hours.
