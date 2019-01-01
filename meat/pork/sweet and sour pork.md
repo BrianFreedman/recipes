@@ -16,7 +16,7 @@ Source: [Sweet and Sour Pork III](http://allrecipes.com/recipe/31144/sweet-and-s
 * 1 medium onion, chopped
 * white sugar to taste
 * salt to taste
-* [Sweet and Sour Sauce](../../sauces%20and%20condiments/sweet%20and%20sour%20sauce.md)
+* [Sweet and Sour Sauce](../../sauces%20and%20condiments/sauces/sweet%20and%20sour%20sauce.md)
 
 ## Instructions ##
 1. Place cubed pork in a medium bowl, and season with salt, sugar, and soy sauce. Mix in the egg white and green onions. Cover, and place in the refrigerator at least 1 hour.
