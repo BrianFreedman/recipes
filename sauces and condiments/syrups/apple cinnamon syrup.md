@@ -3,7 +3,7 @@
 Source: [Apple Cinnamon Syrup](https://www.createdby-diane.com/2016/09/apple-cinnamon-syrup.html)
 
 ## Ingredients ##
-* 1 apple
+* 1 granny smith apple
 * 240 ml (1 cup) water
 * 240 ml (1 cup) sugar
 * 5 ml (1 tsp) cinnamon
