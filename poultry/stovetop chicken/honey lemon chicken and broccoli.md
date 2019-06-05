@@ -14,14 +14,15 @@ Source: [Honey Lemon Chicken and Broccoli Bowls](https://damndelicious.net/2016/
 * 120 ml (1/2 cup) honey
 * 30 ml (2 tbsp) soy sauce
 * 30 ml (2 tbsp) apple cider vinegar
-* 30 ml (2 tbsp) freshly grated ginger
-* 4 cloves garlic, minced <sup>2</sup>
+* 30 ml (2 tbsp) freshly grated ginger <sup>2</sup>
+* 4 cloves garlic, minced <sup>3</sup>
 * 30 ml (2 tbsp) cornstarch
 * 5 ml (1 tsp) Sriracha [*optional*]
 
 ### Substitutions ###
 * <sup>1</sup> 30 ml (2 tbsp) lemon juice
-* <sup>2</sup> 2.5 ml (1/2 tsp) garlic powder
+* <sup>2</sup> 2.5 ml (1/2 tsp) ground ginger
+* <sup>3</sup> 2.5 ml (1/2 tsp) garlic powder
 
 ## Instructions ##
 1. In a large saucepan of 1 1/2 cups water, cook rice according to package instructions; set aside.
