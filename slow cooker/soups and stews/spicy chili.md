@@ -14,7 +14,9 @@ Source: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spicy-slow
 * 45 ml (3 tbsp) chili powder
 * 2.5 ml (1/2 tsp) cayenne pepper
 * 10 ml (2 tsp) salt
-* 5 ml (1 tsp) ground black pepper
+* 7.5 ml (1 1/2 tsp) ground black pepper
+* 5 ml (1 tsp) ground cumin
+* 2.5 ml (1/2 tsp) dried oregano
 * 15 ml (1 tbsp) white vinegar
 * 15 ml (1 tbsp) brown sugar
 
@@ -25,4 +27,4 @@ Source: [Spicy Slow-Cooked Chili](http://allrecipes.com/recipe/223390/spicy-slow
 
 ## Instructions ##
 1. Heat a large skillet over medium-high heat and stir in ground beef. Cook and stir until beef is crumbly, evenly browned, and no longer pink, about 7 minutes. Drain and discard any excess grease.
-1. Combine ground beef, kidney beans, tomato sauce, corn, onions, bell pepper, garlic, chili powder, cayenne pepper, salt, black pepper, white vinegar, and brown sugar in a slow cooker. Cover and cook on Low for 8 hours, or High for 4 hours.
+1. Combine ground beef, kidney beans, tomato sauce, corn, onion, bell pepper, garlic, chili powder, cayenne pepper, salt, black pepper, cumin, oregano, white vinegar, and brown sugar in a slow cooker. Cover and cook on Low for 8 hours, or High for 4 hours.
