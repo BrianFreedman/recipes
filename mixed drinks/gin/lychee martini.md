@@ -6,7 +6,7 @@ Source: Brian Freedman
 * 45 ml (1 1/2 oz) gin
 * 15 ml (1/2 oz) dry vermouth
 * 30 ml (1 oz) lychee juice
-* Lychee
+* Lychee [*optional*]
 
 ## Instructions ##
 1. Fill a shaker two-thirds full with ice.
