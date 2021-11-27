@@ -13,7 +13,7 @@ Source: [Indian Butter Chicken](https://thekitchenpaper.com/indian-butter-chicke
 * 5 ml (1 tsp) ground cumin
 * 2.5 ml (1/2 tsp) cayenne pepper
 * 1.25 ml (1/4 tsp) ground fenugreek seeds
-* 1x 680 ml (23 oz) can of tomato paste
+* 1x 680 ml (23 oz) can of tomato sauce
 * 480 ml (2 cups) cream
 * 2.5 ml (1/2 tsp) dried fenugreek leaves
 
