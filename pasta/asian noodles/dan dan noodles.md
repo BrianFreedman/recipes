@@ -32,7 +32,7 @@
  
  ### Noodles and Greens ###
  * 450 g (1 lb) udon noodles
- * 1 bunch spinach (spinach, bok choy, or choy sum)
+ * 1 bunch spinach <sup>4</sup>
  * chopped peanuts [_optional_]
  * chopped scallion [_optional_]
  
