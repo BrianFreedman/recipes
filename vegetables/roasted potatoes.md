@@ -2,7 +2,7 @@
 
 ## Ingredients ##
 * 0.908 kg (2 lb) baby potatoes, quartered
-* 10 ml (2 tsp) garlic salt
+* 5 ml (1 tsp) garlic salt
 * 30 ml (2 tbsp) neutral oil
 * pepper
 
