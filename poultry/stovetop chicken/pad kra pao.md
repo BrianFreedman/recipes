@@ -3,36 +3,36 @@
 Source: [Pad Kra Pao](https://hot-thai-kitchen.com/holy-basil-stir-fry/)
 
 ## Ingredients ##
-* 5 Thai chilies
-* 5 (or more) cloves of garlic
-* 1 spur chili, chopped <sup>1</sup>
-* 3 shallots, minced
-* 0.454 kg (1 lb) ground beef
+* 0.454 kg (1 lb) ground chicken <sup>1</sup>
 * 45 ml (3 tbsp) oyster sauce
 * 25 ml (5 tsp) light soy sauce
 * 15 ml (1 tbsp) dark soy sauce
 * 10 ml (2 tsp) fish sauce
-* 120 ml (0.5 cup) water <sup>2</sup>
-* 30 ml (2 tbsp) brown sugar
-* 1 handful of holy basil leaves <sup>3</sup>
-* _[optional]_ 1 egg per person
-* Jasmine rice for serving
-
+* 120 ml (1/2 cup) water
+* 30 ml (2 tbsp) palm sugar <sup>2</sup>
+* 1.25 ml (1/4 tsp) monosodium glutamate [*optional*]
+* 15 ml (1 tbsp) neutral oil
+* 3 shallots, minced
+* 5 (or more) cloves of garlic, minced (or pounded into paste)
+* 5 Thai chilies, minced (or pounded into paste)
+* 1 spur chili, chopped <sup>3</sup>
+* handful of holy basil leaves <sup>4</sup>
+* Jasmine rice for serving <sup>5</sup>
 
 ### Substitutions ###
-* <sup>1</sup> 1 any other mild red pepper
-* <sup>2</sup> 120 ml (0.5 cup) unsalted chicken, beef, or vegetable stock
-* <sup>3</sup> 1 handful Thai basil leaves
+* <sup>1</sup> any of:
+    * 0.454 kg (1 lb) ground beef
+    * 0.454 kg (1 lb) ground pork
+    * 1 package extra firm tofu, crumbled
+* <sup>2</sup> 30 ml (2 tbsp) brown sugar
+* <sup>3</sup> any other mild red pepper
+* <sup>4</sup> handful Thai basil leaves
+* <sup>5</sup> Vietnamice rice vermicelli
 
 ## Instructions ##
-1. Pound Thai chilies into a fine paste.
-1. Add garlic and spur chilies and pound into a rough paste.
-Combine oyster sauce, soy sauce, fish sauce, black soy sauce, water and sugar; stir to dissolve the sugar.
-1. In a wok or a large saute pan, saute the garlic-chili paste in a little vegetable oil over medium high heat until the garlic starts to turn golden.
-1. Add chicken and toss until they're no longer in big clumps. Add the sauce and continue tossing until the chicken is almost done.
-1. Add onions and long beans; toss until the chicken is done.
-1. Remove from heat and stir in the holy basil.
-1. Taste and adjust seasoning as needed.
-1. Heat about 1 cm of vegetable oil in a small non-stick pan or a wok over medium high heat.
-1. Once the oil is hot (you want the oil very hot, especially if you like runny yolk), crack the egg directly into the pan and let it fry until the edges are browned and bubbly.
-1. Serve the stir-fry over rice and _optionally_ top it with the fried egg
+1. Heat a large skillet over medium-high heat. Cook and break up the protein, and adding oil as needed to prevent it from sticking. Cook until meat is no longer pink (or the tofu has started to change colour). Drain and discard any excess grease and set protein aside.
+1. While it is cooking, prepare the sauce by combining the oyster sauce, light soy sauce, dark soy sauce, fish sauce, water, brown sugar, and monosodium glutamate. Stir the mixture until the sugar is disolved.
+1. In the same skillet over medium-high heat, add the oil and saute the shallots until the shallots soften and are fragrant.
+1. Add the garlic and thai chillies and continue until they soften and are fragrant.
+1. Add the mild red pepper and continue until it softens.
+1. Add the protein, sauce, and basil leaves and continue until the leaves have wilted and the sauce has reached the desired thickness. Serve the stir-fry over rice (or noodles).
