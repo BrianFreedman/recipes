@@ -11,6 +11,7 @@ Source: [Panang Curry](https://hot-thai-kitchen.com/panang-curry/)
 * 45 ml (3 tbsp) brown sugar
 * 30 ml (2 tbsp) fish sauce
 * 2 red bell peppers, sliced into thin strips or bite-sized pieces
+* 240 ml (1 cup) frozen green peas
 * 4 fresh makrut lime leaves, finely julienned
 
 ### For Serving ###
@@ -22,6 +23,6 @@ Source: [Panang Curry](https://hot-thai-kitchen.com/panang-curry/)
 1. Add the brown sugar, peanut butter, and fish sauce. Cook for a minute or so until the sugar and peanut butter are fully dissolved and incorporated into the paste mixture
 1. Add the thinly sliced chicken breasts and quickly toss them with the curry paste. Once the chicken is about 50% cooked and no longer pink on the outside, add the remaining coconut milk from both cans and stir well
 1. Bring to a gentle simmer and add the sliced red bell peppers. Simmer gently for 8–10 minutes, stirring occasionally, just until the chicken is cooked through, the peppers are tender, and the sauce reduces into a thick consistency. Do not overcook the chicken or it will become chewy; it will continue to cook in the residual heat even after you turn off the heat
-1. Stir in half of the finely julienned makrut lime leaves during the last minute of simmering to release their citrus oils
+1. Stir in the frozen green peas and half of the finely julienned makrut lime leaves during the last minute of simmering to release their citrus oils
 1. Turn off the heat. Plate the curry into serving bowls. If you have extra coconut milk handy, it's traditional to garnish panang curry with a little drizzle of coconut milk on top. Top with the remaining julienned makrut lime leaves
 1. Serve hot with jasmine rice, enjoy!
