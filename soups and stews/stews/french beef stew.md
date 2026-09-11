@@ -2,6 +2,7 @@
 
 ## Ingredients ##
 * 4 slices thick-cut bacon, sliced into 6 mm (1/4 inch) strips
+* 1.36 kg (3 lb) beef chuck roast, cut into 5 cm (2 inch) chunks <sup>1</sup>
 * 45 ml (3 tbsp) all-purpose flour
 * Salt and freshly cracked black pepper, to taste
 * 2 large yellow onions, diced
@@ -16,6 +17,9 @@
 * 2.5 ml (1/2 tsp) garlic powder
 * 2 dried bay leaves
 * 1.36 kg (3 lb) Yukon Gold potatoes, peeled and cut into 3.8 cm (1.5 inch) chunks
+
+### Substitutions ###
+* <sup>1</sup> 1.36 kg (3 lb) beef stew meat (sirloin or round)
 
 ## Instructions ##
 1. Place a large, deep stockpot over medium heat. Fry the bacon strips until golden brown and crispy. Use a slotted spoon to transfer the bacon to a side plate, leaving the rendered fat in the stockpot.
