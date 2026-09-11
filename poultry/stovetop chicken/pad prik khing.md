@@ -1,25 +1,24 @@
 # Pad Prik Khing #
 
-Source: [Gai Pad Prik Gaeng](https://www.eatingthaifood.com/thai-gai-pad-prik-gaeng-recipe-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3-%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%81/)
+Source: [Pad Prik King](https://hot-thai-kitchen.com/gai-pad-prik-king2/)
 
-## Ingredients#
-* 1 boneless skinless chicken breast, cubed
-* 3 strands of Chinese long beans (or about ⅓ cup of chopped string beans)
-* 3 - 5 kaffir lime leaves
-* 3 tbsp Thai red curry paste (recipe here), or alternatively packaged red curry paste, but it won't be as good.
-* 1 tsp fish sauce
-* ½ tsp sugar
-* 1 tbsp oil for frying
+## Ingredients ##
+* 30 ml (2 tbsp) vegetable or canola oil
+* 500g (1.1 lbs) boneless skinless chicken breast, cut into thin bite-sized strips
+* 250g (½ lb) green beans, trimmed and cut into 2-inch pieces
+* 45 ml (3 tbsp) store-bought Thai red curry paste
+* 15 ml (1 tbsp) fish sauce
+* 15 ml (1 tbsp) brown sugar or palm sugar
+* 30 ml (2 tbsp) water or chicken broth
+* 4 fresh makrut lime leaves, very thinly sliced into threads <sup>1</sup>
+
+### Substitutions ###
+* <sup>1</sup> 5 ml (1 tsp) fresh lime zest
 
 ## Instructions ##
-1. The first thing you need to do is take your chicken and slice it into small bite sized pieces. I like to cut it quite fine so there’s more surface area for flavor, and so it cooks quicker.
-1. Cut the Chinese long beans (or green beans) into 1 inch pieces.
-1. Once your chicken and long beans are cut, go ahead and light your stove on low heat and add in 1 tbsp of oil. You really need to use about 1 tbsp of oil, if you use less, the curry paste will burn and stick to the pan.
-1. No need to wait until your oil is hot, just toss in about 3 tbsp of red curry paste into the oil and start stir frying it in the oil. Let it sizzle for about 20 - 30 seconds on low heat, and it should really be fragrant (you might even cough from the frying chilies!).
-1. Next add your chicken, turn up the heat to high, and start stir frying constantly, fully mixing the chicken with the curry sauce.
-1. Quickly season with 1 tsp of fish sauce (give your curry paste a test to see how salty it already is, from the package it might be saltier than the homemade version), and ½ tsp sugar.
-1. Stir fry constantly, and at this point if it’s getting dry, add a couple tbsp of water.
-1. Keep stir frying the chicken on high heat for about 2 minutes until the chicken is fully cooked.
-1. When the chicken is fully cooked, add the sliced long beans, and then break in about 3 - 5 kaffir limes leaves.
-1. Stir fry for just 30 seconds and then turn off the heat. You want the long beans to still be nice and crisp.
-1. Dish your gai pad prik gaeng (ไก่ผัดพริกแกง) out onto a plate and serve with freshly steamed rice.
+1. Heat the vegetable oil in a large skillet or wok over medium heat. Add the red curry paste and stir-fry constantly for 1 to 2 minutes until it darkens slightly and smells highly aromatic.
+1. Turn the heat up to medium-high. Add the sliced chicken breast strips to the pan, mashing and tossing them to ensure they are completely coated in the fried curry paste. Stir-fry for 3-4 minutes until the outside of the chicken turns white.
+1. Toss the cut green beans directly into the skillet with the chicken. 
+1. Drizzle in the fish sauce, brown sugar, and water. Stir-fry rapidly for 3-4 minutes, allowing the sugar to melt and combine with the fish sauce into a thick, glossy glaze that coats the beans and chicken. 
+1. Cook until the water has fully evaporated, the chicken is cooked through, and the green beans are tender-crisp but still bright green.
+1. Turn off the heat. Stir in the finely sliced makrut lime leaves (or lime zest) to release their bright citrus aroma. Serve immediately over hot steamed jasmine rice.

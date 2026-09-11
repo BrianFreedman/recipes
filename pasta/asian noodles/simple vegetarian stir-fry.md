@@ -21,8 +21,9 @@ Source: [Simple Vegetarian Stir-fry](http://www.geniuskitchen.com/recipe/simple-
 
 ### Substitutions ###
 * <sup>1</sup> 5 ml (1 tsp) garlic powder
-* <sup>2</sup> 7.5 ml (1 1/2 tsp) onion powder
-* <sup>2</sup> 22.5 ml (4 1/2 tsp) dried minced onion
+* <sup>2</sup> any of:
+    * 7.5 ml (1 1/2 tsp) onion powder
+    * 22.5 ml (4 1/2 tsp) dried minced onion
 
 ## Instructions ##
 1. Combine the cornstarch, water and garlic. Add the corn, peas, pepper, and onion and toss to coat.
