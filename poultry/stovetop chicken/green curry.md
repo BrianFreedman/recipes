@@ -1,36 +1,31 @@
 # Green Curry #
 
-Source: [Green Curry](https://hot-thai-kitchen.com/green-curry-new-2)
-
 ## Ingredients ##
-
-### For the Curry ###
-* 2x 400 ml (13.5 oz) cans coconut milk
-* 60 ml (4 tbsp) Thai green curry paste
-* 15 ml (1 tbsp) ginger, grated
-* 2 cloves garlic, minced
-* 1 medium sweet potato, peeled and cut into 1.5 cm (1/2 inch) cubes
-* 3 shallots, diced
-* 120 ml (1/2 cup) low-sodium vegetable or chicken broth
-* 60 ml (1/4 cup) canned bamboo shoots, drained, rinsed, and finely julienned
-* 1 red bell pepper, sliced into thin strips
-* 1 tin (400 g / 15 oz) chickpeas, drained and rinsed
-* 30 ml (2 tbsp) fish sauce
-* 25 ml (5 tsp) brown sugar
+* 15 ml (1 tbsp) vegetable oil
+* 3 shallots, finely diced
+* 1 can (15 oz / 400g) chickpeas, drained and rinsed
+* 2x 400 ml (13.5 oz) cans coconut milk, divided
+* 45 ml (3 tbsp) green curry paste
+* 1 stalk lemongrass, sectioned and bruised
+* 1 thumb galangal root, microplaned
+* 6 kaffir lime leaves, torn
+* 30 ml (2 tbsp) chicken broth concentrate
+* 30 ml (2 tbsp) brown sugar
+* 15 ml (1 tbsp) fish sauce
 * 1.25 ml (1/4 tsp) monosodium glutamate (MSG)
-* 150 g (1 cup) frozen green peas
-* 5 fresh makrut lime leaves, stems removed and crushed into small pieces
-* 20-30 fresh Thai basil leaves
+* 2 bell peppers, chopped
+* 240 ml (1 cup) frozen peas
+* 240 ml (1 cup) Thai basil leaves
+* 7.5 ml (1/2 tbsp) lime juice <sup>1</sup>
+* Jasmine rice, for serving
 
-### For Serving ###
-* cooked jasmine rice
+### Substitutions ###
+* <sup>1</sup> 7.5 ml (1/2 tbsp) lemon juice
 
 ## Instructions ##
-1. Open both 400 ml cans of coconut milk without shaking them. In a heavy-bottomed pot, bring about 240 ml (1 cup) of the thick coconut cream from the tops of the cans to a full boil over medium heat. Add the green curry paste and sauté, stirring frequently, until coconut oil starts to separate from the paste, 3–5 minutes. If the paste is super thick and no oil separation occurs, you can move on to the next step
-1. Add the grated ginger and minced garlic to the paste mixture and cook for 1 minute until highly fragrant
-1. Add the cubed sweet potatoes and diced shallots, stirring to mix thoroughly with the paste. Sauté for 2 minutes to let the ingredients begin absorbing the spice flavors. If the paste sticks to the bottom of the pan, you can deglaze with a little bit of the remaining coconut milk or broth
-1. Pour in the remaining liquid from your first can, plus all the remaining thick coconut solids from your second can. Add the broth, fish sauce, brown sugar, and MSG. Grab the 5 crushed makrut lime leaves and drop them into the pot. Bring to a simmer, cover, and let simmer gently for 10 minutes until the sweet potatoes are just beginning to soften
-1. Uncover the pot and add the drained chickpeas. Stir them into the curry and continue to simmer gently for an additional 4–6 minutes until the sweet potatoes are completely fork-tender
-1. Add the bamboo shoots and frozen green peas, and let them cook for a minute or so to heat up as they are already cooked
-1. Turn off the heat and add the red peppers and stir to mix, letting them cook gently in the residual heat. Then add the Thai basil and stir to mix
-1. Taste and adjust seasoning with more of the fish sauce as needed. Serve with jasmine rice!
+1. Heat the vegetable oil in a large skillet or pan over medium-high heat. Add the finely diced shallots and drained chickpeas, sautéing for 2 to 3 minutes until the shallots soften and the chickpeas are lightly blistered.
+1. Scoop out just the thick coconut cream (solids) from the top of the first coconut milk can into the pan, leaving its watery liquid behind. Let it bubble for 1 minute, then stir in the green curry paste and microplaned galangal. Fry for an additional 2 minutes until fragrant and the oil begins to separate.
+1. Pour the entire second can of coconut milk (both solids and liquid) into the pan. Add the lemongrass pieces, torn kaffir lime leaves, chicken broth concentrate, brown sugar, fish sauce, and MSG. Bring the liquid to a gentle, lazy simmer over low heat and cook for 4 to 5 minutes so the shallots melt down and the chickpeas absorb the flavors.
+1. Add the sliced bell peppers to the pan. Maintain the gentle simmer for another 3 to 4 minutes until they begin to soften but still retain a slight bite.
+1. Stir in the frozen peas during the last 1 to 2 minutes of cooking just until they are heated through and bright green, ensuring the curry does not come to a hard, rolling boil.
+1. Turn off the heat completely. Fish out and discard the lemongrass pieces. Stir in the Thai basil leaves and the lime juice. Taste the sauce, adjust seasoning if desired, and serve immediately over a bed of jasmine rice.
