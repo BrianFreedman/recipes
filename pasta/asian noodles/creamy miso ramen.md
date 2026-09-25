@@ -5,15 +5,15 @@
 ### For the Multi-Layered Dashi ###
 * 2 litres (8 cups) cold water
 * 2 squares (10x10 cm / 4x4 inch each) kombu (dried kelp)
-* 12 to 16 small dried shiitake mushrooms
+* 12 to 16 small dried shiitake mushrooms <sup>1</sup>
 * 2 loose cups (approx. 20–24 grams) bonito flakes (Katsuobushi)
 
 ### For the Creamy Miso Tare ###
 * 90 ml (6 tbsp) white miso paste (Shiro Miso)
 * 30 ml (2 tbsp) red miso paste (Aka Miso)
 * 30 ml (2 tbsp) tahini or white sesame paste (Nerigoma)
-* 2 cloves garlic, finely grated <sup>1</sup>
-* 10 ml (2 tsp) fresh ginger, finely grated <sup>2</sup>
+* 2 cloves garlic, finely grated <sup>2</sup>
+* 10 ml (2 tsp) fresh ginger, finely grated <sup>3</sup>
 * 30 ml (2 tbsp) mirin
 * 10 ml (2 tsp) toasted sesame oil
 
@@ -25,7 +25,7 @@
 * 2.5 ml (1/2 tsp) black pepper
 * 30 ml (2 tbsp) soy sauce
 * 30 ml (2 tbsp) mirin
-* 5 ml (1 tsp) fresh ginger, finely grated <sup>3</sup>
+* 5 ml (1 tsp) fresh ginger, finely grated <sup>4</sup>
 * 15 ml (1 tbsp) neutral cooking oil (divided)
 
 ### For the Vegetables & Toppings ###
@@ -38,9 +38,10 @@
 * 4 portions fresh or instant ramen noodles
 
 ### Substitutions ###
-* <sup>1</sup> 2.5 ml (1/2 tsp) garlic powder
-* <sup>2</sup> 2.5 ml (1/2 tsp) ground ginger
-* <sup>3</sup> 1.25 ml (1/4 tsp) ground ginger
+* <sup>1</sup> 20 to 28 mini dried shiitake mushrooms
+* <sup>2</sup> 2.5 ml (1/2 tsp) garlic powder
+* <sup>3</sup> 2.5 ml (1/2 tsp) ground ginger
+* <sup>4</sup> 1.25 ml (1/4 tsp) ground ginger
 
 ## Instructions ##
 1. Place 2 litres (8 cups) of cold water, 2 kombu squares, and 12 to 16 small dried shiitake mushrooms into a large pot. Let sit on the counter for 1 to 2 hours (or in the fridge overnight) to cold-brew the dashi base
